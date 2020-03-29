@@ -2,6 +2,7 @@ Git is a version control system.But it is a distributed version control system.
 Git is free.And is distributed under the GPL.
 This txt is Win7 belong,maybe trouble!!!
 Git has a mutable index called stage.
+Git tracks changes.
 
 
 Author:Rick Blitivy
