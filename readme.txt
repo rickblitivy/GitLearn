@@ -3,6 +3,7 @@ Git is free.And is distributed under the GPL.
 This txt is Win7 belong,maybe trouble!!!
 Git has a mutable index called stage.
 Git tracks changes.
+Git tracks changes of files.
 
 
 Author:Rick Blitivy
@@ -13,3 +14,5 @@ MT1:2020.3.29.1702<"First Modify">
 MT2:2020.3.29.1707<"Add Version Control">
 
 MT3:2020.3.29.1748<"¶ÁÈ¡ÔÝ´æÇø">
+
+MT4:2020.3.29.1803<"Git¹ì¼£±ä»¯×·×Ù">
