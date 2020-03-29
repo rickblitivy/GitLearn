@@ -5,6 +5,8 @@ This txt is Win7 belong,maybe trouble!!!
 
 
 Author:Rick Blitivy
-OriginTime:2020.3.29.1600
+OriginTime:2020.3.29.1600<"Wrote a file">
 
-MT1:2020.3.29.1702
+MT1:2020.3.29.1702<"First Modify">
+
+MT2:2020.3.29.1707<"Add Version Control">
