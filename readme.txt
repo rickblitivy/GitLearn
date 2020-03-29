@@ -5,6 +5,7 @@ Git has a mutable index called stage.
 Git tracks changes.
 Git tracks changes of files.
 Creating a new branch is quick.
+Creating a new branch is quick & simple.
 
 
 Author:Rick Blitivy
@@ -19,3 +20,5 @@ MT3:2020.3.29.1748<"读取暂存区">
 MT4:2020.3.29.1803<"Git轨迹变化追踪">
 
 MT5:2020.3.29.2217<"创建dev分支">
+
+MT6:2020.3.29.2236<"代码冲突dev">
