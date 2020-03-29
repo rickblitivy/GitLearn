@@ -1,0 +1,1 @@
+ssh-keygen -C "rick_blitivy@126.com" -t rsa 
